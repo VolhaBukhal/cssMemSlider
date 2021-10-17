@@ -105,8 +105,7 @@ label:focus .bar {
 }
 
 input[name="r"] {
-    position: absolute;
-    visibility: hidden;
+    display: none;
 }
 
 #r1:checked ~ .navigation .labels label .bar1,
